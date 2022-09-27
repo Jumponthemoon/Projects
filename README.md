@@ -6,6 +6,13 @@
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/unified.png" height="150" />
 Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 
+### Hand Gesture Recognition
+- embedded device deployment
+<div align=left>
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/hand2.gif" height="150" />
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/hand1.gif" height="150" />
+</div>
+
 ### Door detection
 - Algebra limitation loss
 <div align=left>
@@ -27,12 +34,7 @@ Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/seg-conf.gif" height="150" />
 </div>
 
-### Hand Gesture Recognition
-- embedded device deployment
-<div align=left>
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/hand2.gif" height="150" />
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/hand1.gif" height="150" />
-</div>
+
 
 ### Bird’s-eye-view detection
 -Simulation
