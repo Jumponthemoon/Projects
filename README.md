@@ -5,12 +5,11 @@
 - Spatial Attention
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/unified.png" height="200" />
 
-### Object detection & Keypoint Estimation
-# Door detection
+
+### Door detection
 - Algebra limitation loss
 <div align=left>
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door1.gif" height="200" />
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door2.gif" height="200" />
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door1.gif" height="200" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door2.gif" height="200" />
 </div>
 
 ### Tree and pole detection
