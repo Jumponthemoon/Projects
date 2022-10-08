@@ -6,6 +6,12 @@
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/unified.png" height="150" />
 Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 
+### Monocular Bird’s-eye-view detection
+<div align=left>
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/det1.png" height="150" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev1.png" height="150" />
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/det2.png" height="150" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev2.png" height="150" />
+</div>
+
 ### Hand Gesture Recognition
 - embedded device deployment
 <div align=left>
@@ -36,5 +42,3 @@ Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 
 
 
-### Bird’s-eye-view detection
--Simulation
