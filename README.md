@@ -8,10 +8,10 @@ Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 
 ### Monocular Bird’s-eye-view detection
 <div align=left>
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/dep1.png" height="150" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev1.png" height="150" />
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/dep1.png" height="170" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev1.png" height="170" />
 </div>
 <div align=left>
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/dep2.png" height="150" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev2.png" height="150" />
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/dep2.png" height="170" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/bev2.png" height="170" />
 </div>
 
 ### Hand Gesture Recognition
