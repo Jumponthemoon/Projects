@@ -21,15 +21,15 @@ Details (https://github.com/Jumponthemoon/Unified_Robotic_Perception)
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/hand1.gif" height="150" />
 </div>
 
+### Parking space detection
+<div align=left>
+<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/park_space.gif" height="160" />
+</div>
+
 ### Door detection
 - Algebra limitation loss
 <div align=left>
 <img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door1.gif" height="150" /><img src="https://github.com/Jumponthemoon/Projects/blob/main/images/Door2.gif" height="150" />
-</div>
-
-### Parking space detection
-<div align=left>
-<img src="https://github.com/Jumponthemoon/Projects/blob/main/images/park_space.gif" height="160" />
 </div>
 
 ### Tree and pole detection
